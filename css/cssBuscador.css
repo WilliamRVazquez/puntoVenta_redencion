@@ -1,0 +1,16 @@
+.form_search{
+    display: flex;
+    float: left;
+    background: initial;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.form_search .btnSeach{
+    background: #1faac8;
+    color: #fff;
+    padding: 0 20px;
+    border: 0;
+    cursor: pointer;
+    margin-left: 10px;
+}

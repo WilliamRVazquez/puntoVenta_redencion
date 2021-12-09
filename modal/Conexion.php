@@ -6,7 +6,7 @@
         $user = "root";
         $pass = "";
 
-        $db = "puntoventa_abarrotes";
+        $db = "puntoventa_abarrotes2";
 
         $conexion = mysqli_connect($host, $user, $pass);
 
